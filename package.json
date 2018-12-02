@@ -1,0 +1,15 @@
+{
+  "name": "dehum_alert",
+  "version": "0.0.0",
+  "description": "My dehumidifier alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Key",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^3.2.2",
+    "simple-slack-webhook": "0.0.5"
+  }
+}
